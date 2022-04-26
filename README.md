@@ -1,4 +1,18 @@
-# Atividade-26_04
-Atividade do dia 26/04/2022 
-Implemente os códigos indicados no exercício ao final da aula Aula 5 (LTPI3) - Tratamento de Exceções. Cada tipo de leitura de arquivo pode ser inserido em uma classe com métodos main distintos. 
-Realize o commit do projeto Java com as implementações supracitadas para um repositório do GitHub. Cole o link do repositório como forma de envio desta atividade.
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
